@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 2: JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+# Домашнее задание к занятию 3: JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
 ## Задача 1: DAO слой
 
 ### Описание
